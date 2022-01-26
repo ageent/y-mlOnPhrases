@@ -1,7 +1,9 @@
+**/Thumbs.db
+#.data/img/Thumbs.db
+.data/img/mod1.0_loss1.png
+
 # IDEA
-
 .idea/
-
 *.iml
 
 # Byte-compiled / optimized / DLL files
