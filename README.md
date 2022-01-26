@@ -17,6 +17,9 @@ a single-layer perceptron was trained.
 To simplify the solution, 
 the regressor weights were taken as constants equal to **1/3**.
 
+The sum of the classifier's MSE 
+and the regressor's MSE was used as the loss function.
+
 The course of training is illustrated by the following three figures.
 
 ![loss of model](data/img/mod1.0_loss1.png)
